@@ -4,6 +4,8 @@
 
 **Based on work of:** Gábor Bergmann, Gábor Szárnyas
 
+[![.github/workflows/ci.yml](https://github.com/fristvan92/ase-labs-2/actions/workflows/ci.yml/badge.svg?branch=practice-2)](https://github.com/fristvan92/ase-labs-2/actions/workflows/ci.yml)
+
 ## Practice
 
 See https://github.com/ftsrg-edu/ase-labs/wiki/Practice-2a
